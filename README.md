@@ -2,7 +2,7 @@
 
 **The Central Nervous System for Developer Tools & Packages**
 
-🌐 **Live Site:** https://universal-dev-registry.netlify.app
+🌐 **Live Site:** https://universal-dev-registry.ambastha.org
 
 ---
 
