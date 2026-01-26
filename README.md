@@ -68,7 +68,7 @@ A high-performance **Next.js** interface for rapid package discovery and command
 A curated collection of **system-level developer tools**.  
 Want to add more tools like **MongoDB Compass** or **Node.js**?
 
-➡️ Check out our **Cross-Platform Dev Tools Repository**
+➡️ Check out our **Cross-Platform Dev Tools Repository** and [![Contribute Tools](https://img.shields.io/badge/Contribute-New_Tools-blueviolet?style=for-the-badge&logo=github)](https://github.com/Ambastha-Org/crossplatform-desktop-apps-for-dev)
 
 ### 🧬 The Matrix API (Private)
 
